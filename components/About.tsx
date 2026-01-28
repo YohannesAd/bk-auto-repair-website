@@ -37,9 +37,9 @@ export default function About() {
               technicians are dedicated to keeping your vehicle running smoothly and safely.
             </p>
             <p className="text-gray-700 text-lg leading-relaxed">
-              We understand that your vehicle is an important investment, and we treat every 
-              car that comes through our doors with the care and attention it deserves. 
-              From routine maintenance to complex repairs, we've got you covered.
+              We understand that your vehicle is an important investment, and we treat every
+              car that comes through our doors with the care and attention it deserves.
+              From routine maintenance to complex repairs, we have you covered.
             </p>
           </motion.div>
 
@@ -71,4 +71,3 @@ export default function About() {
     </section>
   );
 }
-

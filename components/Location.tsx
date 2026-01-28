@@ -17,8 +17,8 @@ export default function Location() {
             Visit Our Shop
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Stop by our location for professional auto repair services. 
-            We're conveniently located in Minneapolis and ready to serve you.
+            Stop by our location for professional auto repair services.
+            We are conveniently located in Minneapolis and ready to serve you.
           </p>
         </div>
 
@@ -105,4 +105,3 @@ export default function Location() {
     </section>
   );
 }
-
